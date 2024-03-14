@@ -1,6 +1,6 @@
-### Study-of-basic-gates
+### EXP1:  Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
 
-**AIM:** 
+**AIM:**
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
@@ -80,15 +80,18 @@ endmodule
 
  RegisterNumber: 212223110055
  
-**Logic symbol Truthtable:**
+**Logic symbol & Truthtable:**
 
+![Screenshot 2024-03-14 110349](https://github.com/Suriya-MD/study-of-basic-gates/assets/147120571/26550da6-f360-45d3-b02f-e6a30873ed13)
 
 
 **RTL realization Output:** 
 
-![Screenshot 2024-03-13 214920](https://github.com/Suriya-MD/study-of-basic-gates/assets/147120571/580010b3-e8b2-4958-9706-99fa80cd9072)
+![image](https://github.com/Suriya-MD/study-of-basic-gates/assets/147120571/d2d147b2-6a78-47c6-9796-13bcd44b9df2)
 
 **Timing Diagram:**
+
+![Screenshot 2024-03-14 102005](https://github.com/Suriya-MD/study-of-basic-gates/assets/147120571/00d1e7fe-2612-410a-8bbb-3d3efd481218)
 
 
 **Result:**
